@@ -1,0 +1,20 @@
+- [ ] Make Design
+  - [ ] Name (LOGO)
+  - [ ] Dropdown list
+  - [ ] Different Topics
+    - [ ] Breakfast
+    - [ ] Dinner
+    - [ ] Lunch
+    - [ ] Snacks
+    - [ ] Drinks
+    - [ ] Deserts
+  - [ ] SearchBar
+  - [ ] Favourited
+  - [ ] Recipes
+  - [ ] Pictures
+  - [ ] Filtering
+  - [ ] About Us
+  - [ ] Contacts
+  - [ ] Nutritional Value
+  - [ ] Videos
+  
