@@ -1,6 +1,6 @@
 ## Design
 - [ ] Make Design
-  - [ ] Name (LOGO)
+  - [X] Name (LOGO)
   - [ ] Dropdown list
   - [ ] Different Topics
     - [ ] Breakfast
