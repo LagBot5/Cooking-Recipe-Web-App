@@ -19,3 +19,7 @@
   - [ ] Nutritional Value
   - [ ] Videos
 
+## Creating Web App
+- [ ] import figma to framework (Fluent Design Language)
+- [ ] Make the same  layout as in the design
+- [ ] Code some of the functions and put in links and videos
