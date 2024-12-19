@@ -1,6 +1,4 @@
-// import { useEffect, useState } from "react";
 
-// function Popular() {
 
 //   const [popular, setPopular] = useState([]);
 
