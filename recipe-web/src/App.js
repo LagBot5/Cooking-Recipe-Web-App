@@ -1,9 +1,15 @@
+// npm install
+// npm install react-scripts
+// npm install framer-motion react-icons react-routers-dom styled-components
+
+import './App.css';
+import Pages from './pages/Pages';
+
 function App() {
   return (
     <div className="App">
-      <header>
-        Hello
-      </header>
+      <h1>Food Wars</h1>
+      <Pages />
     </div>
   );
 }
