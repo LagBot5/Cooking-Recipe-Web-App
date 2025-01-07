@@ -2,24 +2,23 @@
 - [ ] Make Design
   - [X] Name (LOGO)
   - [ ] Dropdown list
-  - [ ] Different Topics
+  - [X] Different Topics
     - [ ] Breakfast
     - [ ] Dinner
     - [ ] Lunch
     - [ ] Snacks
     - [ ] Drinks
     - [ ] Deserts
-  - [ ] SearchBar
+  - [X] SearchBar
   - [ ] Favourited
-  - [ ] Recipes
-  - [ ] Pictures
-  - [ ] Filtering
+  - [X] Recipes
+  - [X] Pictures
+  - [X] Filtering
   - [ ] About Us
   - [ ] Contacts
   - [ ] Nutritional Value
   - [ ] Videos
 
 ## Creating Web App
-- [ ] import figma to framework (Fluent Design Language)
 - [ ] Make the same  layout as in the design
-- [ ] Code some of the functions and put in links and videos
+- [X] Code some of the functions and put in links and videos
